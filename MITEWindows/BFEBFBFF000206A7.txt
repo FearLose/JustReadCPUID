@@ -1,4 +1,0 @@
-System Name:Windows 7
-System Type:x86
-System Ver:6.1
-System CPU:BFEBFBFF000206A7
