@@ -1,9 +1,0 @@
-User Name:Administrator
-User Name:C:\Users\Administrator
-User Name:C:\Users\Administrator\Desktop\贝爷2
-System CPU:1F8BFBFF000306E4
-System MaCD:1F8B-FBFF-0003-06E41047
-System MAC:00-15-5D-49-CF-55
-System Name:Windows NT (unknown)
-System Type:amd64
-System Ver:10.0
