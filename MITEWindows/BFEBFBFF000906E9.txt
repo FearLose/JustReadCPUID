@@ -1,9 +1,0 @@
-User Name:Administrator
-User Name:C:\Users\Administrator
-User Name:C:\Users\Administrator\Desktop\功能\服务器\Server
-System CPU:BFEBFBFF000906E9
-System MaCD:BFEB-FBFF-0009-06E99946
-System MAC:00-E0-70-8F-92-CC
-System Name:Windows 10
-System Type:amd64
-System Ver:10.0
