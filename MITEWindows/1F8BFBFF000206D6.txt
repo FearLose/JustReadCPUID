@@ -1,0 +1,15 @@
+UserName: Administrator 
+ComputerName: CLOUDSERVER 
+UserDomain: CLOUDSERVER 
+UserName： Administrator 
+UserHome： C:\Users\Administrator 
+UserDir： C:\Users\Administrator\Desktop\MiteServer 
+OSName： Windows Server 2008 R2 
+OSArch： x86 
+OSVersion： 6.1 
+JavaVersion： 1.8.0_231 
+JavaPath： C:\Program Files (x86)\Java\jre1.8.0_231 
+CPUID: 1F8BFBFF000206D6
+HardAddress: CCCCCC0404C6 
+IPLocalMac: CC-CC-CC-04-04-C6 
+diskDrive: 2020202020202020202020202020202020202020
